@@ -1,0 +1,11 @@
+{
+  "name": "wilson-score",
+  "description": "Because averages suck",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "repo": "jonathanong/wilson-score"
+}
