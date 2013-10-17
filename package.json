@@ -11,11 +11,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonathanong/wilson-score.git"
+    "url": "https://github.com/math-utils/wilson-score.git"
   },
   "bugs": {
     "mail": "me@jongleberry.com",
-    "url": "https://github.com/jonathanong/wilson-score/issues"
+    "url": "https://github.com/math-utils/wilson-score/issues"
   },
   "devDependencies": {
     "mocha": "*"

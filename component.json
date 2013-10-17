@@ -7,5 +7,5 @@
     "index.js"
   ],
   "main": "index.js",
-  "repo": "jonathanong/wilson-score"
+  "repo": "math-utils/wilson-score"
 }
