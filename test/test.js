@@ -1,6 +1,6 @@
 var assert = require('assert')
 
-var wilson = require('./')
+var wilson = require('..')
 
 describe('Wilson Score', function () {
   it('should be lower than the average', function () {
