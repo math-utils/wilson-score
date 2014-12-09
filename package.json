@@ -1,7 +1,7 @@
 {
   "name": "wilson-score",
   "description": "Because averages suck",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "author": {
     "name": "Jonathan Ong",
     "email": "me@jongleberry.com",
@@ -24,5 +24,7 @@
     "score",
     "average"
   ],
-  "files": ["index.js"]
+  "files": [
+    "index.js"
+  ]
 }
